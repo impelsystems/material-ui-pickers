@@ -1,7 +1,7 @@
 {
   "name": "@impelsys/material-ui-pickers",
   "version": "3.3.10",
-  "private": true,
+  "private": false,
   "description": "React components, that implements material design pickers for material-ui v4",
   "main": "./src/index.ts",
   "module": "./src/index.ts",

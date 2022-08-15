@@ -7,7 +7,7 @@
     "doc": "docs",
     "lib": "lib"
   },
-  "private": true,
+  "private": false,
   "workspaces": [
     "lib",
     "docs"
