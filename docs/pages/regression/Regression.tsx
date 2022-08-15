@@ -33,7 +33,7 @@ function Regression() {
         DatePicker
       </Typography>
 
-      <Grid container justify="center" wrap="wrap">
+      <Grid container justifyContent="center" wrap="wrap">
         <DatePicker id="basic-datepicker" {...sharedProps} />
         <DatePicker id="clearable-datepicker" clearable {...sharedProps} />
         <KeyboardDatePicker

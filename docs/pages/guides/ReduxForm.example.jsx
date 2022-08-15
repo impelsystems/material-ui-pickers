@@ -49,7 +49,7 @@ const ReduxFormExample = props => {
     // only calls the submit if form is valid
     <form onSubmit={props.handleSubmit(submit)}>
       <Grid container>
-        <Grid item container justify="center" xs={12}>
+        <Grid item container justifyContent="center" xs={12}>
           <Field name="date" component={DateField} />
         </Grid>
         <Grid item xs={12} sm={12} style={{ margin: '24px' }}>
